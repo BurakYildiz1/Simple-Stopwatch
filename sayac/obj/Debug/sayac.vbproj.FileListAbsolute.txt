@@ -1,0 +1,12 @@
+C:\Users\cang3\Desktop\sayac\sayac\bin\Debug\sayac.exe.config
+C:\Users\cang3\Desktop\sayac\sayac\bin\Debug\sayac.exe
+C:\Users\cang3\Desktop\sayac\sayac\bin\Debug\sayac.pdb
+C:\Users\cang3\Desktop\sayac\sayac\bin\Debug\sayac.xml
+C:\Users\cang3\Desktop\sayac\sayac\obj\Debug\sayac.Form1.resources
+C:\Users\cang3\Desktop\sayac\sayac\obj\Debug\sayac.Resources.resources
+C:\Users\cang3\Desktop\sayac\sayac\obj\Debug\sayac.vbproj.GenerateResource.cache
+C:\Users\cang3\Desktop\sayac\sayac\obj\Debug\sayac.vbproj.CoreCompileInputs.cache
+C:\Users\cang3\Desktop\sayac\sayac\obj\Debug\sayac.exe
+C:\Users\cang3\Desktop\sayac\sayac\obj\Debug\sayac.xml
+C:\Users\cang3\Desktop\sayac\sayac\obj\Debug\sayac.pdb
+C:\Users\cang3\Desktop\sayac\sayac\obj\Debug\sayac.vbproj.AssemblyReference.cache
